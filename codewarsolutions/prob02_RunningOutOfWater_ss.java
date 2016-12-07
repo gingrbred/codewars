@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
 
-public class prob02 {
+public class prob02_RunningOutOfWater_ss {
 
     public static void main(String[] args) {
     
